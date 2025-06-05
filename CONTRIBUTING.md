@@ -36,7 +36,7 @@ We appreciate all forms of contributions—whether you are a translator, proofre
 1. **Fork** the repository to your GitHub account.
 2. **Clone** your fork locally:
    ```bash
-   git clone https://github.com/your-username/project_gutenberg_urdu.git
+   git clone https://github.com/humair-me/project_gutenberg_urdu.git
 
     Create a new branch for your work:
 
